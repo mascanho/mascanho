@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mascanho!
 - 👀 I’m passionate about Marketing, Software Development, and Photography.
-- 🌱 I’m currently working with Rust, React, Next.js, and React Native, and exploring new possibilities with Linux.
+- 👨🏻‍💻 I am the creator os [RustySEO](https://www.rustyseo.com) a SEO/GEO Toolkit.
+- 🌱 Currently working with Rust, React, Next.js, and React Native.
 - 💻 Avid Linux enthusiast—I enjoy optimizing workflows and contributing to open-source projects.
 - 💞️ I’m looking to collaborate on exciting projects where I can learn and contribute meaningfully.
 - 📫 Reach me at: mascanho@sapo.pt
